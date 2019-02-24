@@ -1,0 +1,7 @@
+header, nav, main, footer {
+    background: blue;
+    margin: 10px 0;
+    min-height: 100px;
+    font-size: 36px;
+    padding: 10px;
+}
