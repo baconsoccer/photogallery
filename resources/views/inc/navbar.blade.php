@@ -15,6 +15,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="/squad">Squad</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/photo-gallery">Photo gallery</a>
+            </li>
         </ul>
     </div>
 </nav>
